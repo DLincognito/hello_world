@@ -1,2 +1,1 @@
-# hello_world
-1st Repository
+My name is Ruddigar and I like fish.
